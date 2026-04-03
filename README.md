@@ -165,17 +165,7 @@ Awarded the **Student Affairs Distinguished Leadership Medal**
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkolte523&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkolte523&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
 
 ## Connect With Me
 
