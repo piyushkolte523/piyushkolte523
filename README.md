@@ -1,67 +1,62 @@
 # Hi, I'm Piyush Kolte
 
-Data & Business Intelligence Analyst with 4+ years of experience building analytics solutions across cloud platforms, enterprise reporting environments, and applied machine learning workflows.
+Data & Business Intelligence Analyst with 4+ years of experience delivering analytics, BI, and machine learning solutions across cloud platforms and enterprise environments.
 
-I work at the intersection of:
-
-- Data Analytics
-- Business Intelligence
-- Data Engineering
-- Machine Learning
-- Cloud Data Platforms
-- Product-focused Dashboarding
+I enjoy building scalable data products, predictive models, self-service dashboards, and interactive analytics applications that turn complex data into actionable insights.
 
 ## About Me
 
-- MS in Data Science at UMass Dartmouth
+- MS in Data Science candidate at University of Massachusetts Dartmouth
 - Research Analyst with experience in predictive modeling, dashboarding, and applied analytics
-- Former Business Analyst with enterprise KPI, SQL, ETL, and cloud analytics experience
-- Interested in turning raw data into decision-ready products
+- Former Business Analyst with hands-on work in Snowflake, AWS, Databricks, SQL, Python, and Power BI
+- Passionate about analytics engineering, machine learning, cloud data systems, and decision intelligence
 
-## What I Build
+## Areas of Interest
 
-- KPI-driven analytics dashboards
-- Machine learning and predictive modeling projects
-- SQL and Python-based data products
-- ETL and workflow automation solutions
-- Streamlit applications for interactive business insights
-- Cloud-enabled analytics and governance workflows
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Data Engineering
+- Cloud Analytics
+- Applied AI
+- Interactive Dashboards
+- Self-Service Analytics
 
 ## Tech Stack
 
 ### Languages
-
 - Python
 - SQL
 - R
 - PySpark
 
-### Data and ML
-
+### Data & Machine Learning
 - pandas
 - NumPy
 - scikit-learn
 - PyTorch
-- statistical modeling
-- A/B testing
-- predictive analytics
+- Statistical Modeling
+- Predictive Analytics
+- A/B Testing
+- Feature Engineering
+- Clustering
+- Regression
 
-### BI and Visualization
-
+### BI & Visualization
 - Power BI
 - Tableau
 - Streamlit
 - Plotly
 
-### Cloud and Data Platforms
-
+### Cloud & Data Platforms
 - Snowflake
 - AWS
 - Databricks
 - GCP
+- Airflow
+- Docker
 
 ### Databases
-
 - PostgreSQL
 - MySQL
 - Oracle
@@ -72,76 +67,90 @@ I work at the intersection of:
 
 ## Featured Projects
 
-### Alpha Paper - Stock Paper Trading and Analytics Platform
+### Alpha Paper — Stock Paper Trading and Analytics Platform
+A Streamlit-based stock paper trading and analytics platform built with Yahoo Finance historical data, portfolio simulation, strategy backtesting, and machine learning insights.
 
-A Streamlit-based stock paper trading platform built using Yahoo Finance historical data, portfolio analytics, strategy backtesting, and machine learning-driven market insights.
-
-Highlights:
-
-- historical paper trading with realistic execution logic
-- portfolio KPIs, benchmark comparison, and watchlist tracking
-- backtesting for technical strategies
-- ML modules for regime detection, anomalies, and suitability analysis
+Key features:
+- Historical paper trading with realistic execution logic
+- Portfolio analytics, benchmark comparison, and watchlist tracking
+- Backtesting for technical trading strategies
+- ML modules for market regime detection, anomaly detection, and suitability analysis
 
 Repository:
-
 - [Alpha Paper: Stock Paper Trading and Analytics Platform](https://github.com/piyushkolte523/Alpha_Paper-Stock_Paper_Trading_and_Analytics_Platform)
 
 ### AI-Powered Multi-Agent Analytics Workflow Visualizer
-
-A visual analytics system for modeling, monitoring, and optimizing multi-agent AI-driven workflows and data interactions.
+Designed a multi-agent analytics workflow visualizer to model, monitor, and optimize AI-driven data pipelines and agent interactions.
 
 ### Enterprise Self-Service Analytics Framework
+Built a natural language to SQL analytics framework to improve self-service reporting and reduce ad-hoc analytics effort.
 
-A natural language to SQL analytics framework designed to reduce ad-hoc reporting effort and improve self-service decision support.
+### AI-Powered Health Management System
+Developed analytical pipelines and KPI-driven dashboards for healthcare and rare-disease-oriented datasets.
 
-## Experience Snapshot
+## Experience
 
 ### Research Analyst
-University of Massachusetts Dartmouth
+University of Massachusetts Dartmouth  
+Jan 2024 - Present
 
-- delivered predictive modeling and big-data research projects
-- built cleaned datasets and KPI dashboards
-- conducted neural network optimization experiments
-- mentored students on dashboarding and analytics workflows
+- Delivered predictive modeling and big-data research projects with measurable impact
+- Produced cleaned datasets and dashboard-driven outputs for research workflows
+- Conducted neural network optimization experiments and robustness analysis
+- Mentored students in analytics, dashboarding, and KPI-based decision-making
 
 ### Business Analyst
-Aaradhana Energy Private Limited
+Aaradhana Energy Private Limited  
+Aug 2021 - Aug 2023
 
-- built enterprise KPI dashboards in Power BI using Snowflake-backed data
-- optimized SQL and stored procedures for large-scale financial and operational reporting
-- created Python validation scripts and governance-focused metadata workflows
-- worked with AWS and Databricks ETL pipelines
+- Built enterprise KPI dashboards in Power BI with Snowflake-backed datasets
+- Optimized SQL queries and stored procedures for financial and operational analytics
+- Developed Python validation scripts to improve reporting quality and reduce reconciliation errors
+- Managed ETL pipelines using AWS and Databricks
+- Strengthened governance with metadata documentation and role-based access controls
 
 ### Data Analyst Intern
-Sutherland Global Services
+Sutherland Global Services  
+Jun 2020 - Feb 2021
 
-- built a cloud-native data masking microservice
-- automated sensitive-data redaction using Python, Flask, PostgreSQL, and NLP workflows
-- designed CI/CD deployment pipelines on GCP and GKE
+- Built a cloud-native data masking microservice using Python, Flask, and PostgreSQL
+- Automated sensitive data redaction using NLP workflows
+- Designed CI/CD workflows on GCP and GKE
+- Improved compliance efficiency and reduced manual review workload
+
+## Education
+
+### University of Massachusetts Dartmouth
+MS in Data Science  
+GPA: 3.95/4.00  
+Awarded the Student Affairs Distinguished Leadership Medal
+
+### University of Mumbai
+B.E. in Computer Science
+
+## Leadership
+
+- Finance Senator — Graduate Student Senate, UMass Dartmouth
 
 ## What You’ll Find On My GitHub
 
-- end-to-end analytics projects
-- BI and dashboard applications
-- machine learning implementations
-- SQL and Python-based problem solving
-- portfolio projects with practical business use cases
+- End-to-end analytics projects
+- Machine learning applications
+- Dashboard and BI solutions
+- SQL and Python-driven data products
+- Research and portfolio projects with real implementation depth
 
-## Current Interests
+## Currently Exploring
 
-- applied machine learning for analytics and finance
-- analytics product design
-- scalable data workflows
-- intelligent dashboards and self-service BI
-- enterprise analytics systems
+- Applied machine learning for analytics and finance
+- Decision intelligence systems
+- Scalable cloud data workflows
+- Dashboard UX and analytics storytelling
+- AI-enabled business analytics applications
 
 ## Connect With Me
 
 - GitHub: [piyushkolte523](https://github.com/piyushkolte523)
-- LinkedIn: Add your LinkedIn profile link here
 - Email: `piyushkolte2209@gmail.com`
-
----
 
 Thanks for visiting my profile.
