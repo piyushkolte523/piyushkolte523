@@ -1,23 +1,31 @@
 # Hi, I'm Piyush Kolte
 
-I enjoy building data-driven applications that combine analytics, automation, machine learning, and clean user-facing products.
+Data & Business Intelligence Analyst with 4+ years of experience building analytics solutions across cloud platforms, enterprise reporting environments, and applied machine learning workflows.
 
-Right now, I’m focused on projects in:
+I work at the intersection of:
 
 - Data Analytics
-- Machine Learning
-- Python Development
 - Business Intelligence
-- Streamlit Dashboards
-- SQL and Data Pipelines
+- Data Engineering
+- Machine Learning
+- Cloud Data Platforms
+- Product-focused Dashboarding
 
-## What I Work On
+## About Me
 
-- Interactive analytics applications
-- Machine learning and forecasting projects
-- Automation and workflow tools
-- Portfolio-ready data products
-- Dashboard-driven business insights
+- MS in Data Science at UMass Dartmouth
+- Research Analyst with experience in predictive modeling, dashboarding, and applied analytics
+- Former Business Analyst with enterprise KPI, SQL, ETL, and cloud analytics experience
+- Interested in turning raw data into decision-ready products
+
+## What I Build
+
+- KPI-driven analytics dashboards
+- Machine learning and predictive modeling projects
+- SQL and Python-based data products
+- ETL and workflow automation solutions
+- Streamlit applications for interactive business insights
+- Cloud-enabled analytics and governance workflows
 
 ## Tech Stack
 
@@ -25,55 +33,114 @@ Right now, I’m focused on projects in:
 
 - Python
 - SQL
-- DAX
-- JavaScript
+- R
+- PySpark
 
-### Libraries and Tools
+### Data and ML
 
 - pandas
-- numpy
+- NumPy
 - scikit-learn
+- PyTorch
+- statistical modeling
+- A/B testing
+- predictive analytics
+
+### BI and Visualization
+
+- Power BI
+- Tableau
 - Streamlit
 - Plotly
-- Power BI
-- SQLite
-- Git and GitHub
 
-## Featured Project
+### Cloud and Data Platforms
 
-### Alpha Paper: Stock Paper Trading and Analytics Platform
+- Snowflake
+- AWS
+- Databricks
+- GCP
 
-A Streamlit-based stock paper trading and analytics platform built on Yahoo Finance historical data.
+### Databases
 
-Key features:
+- PostgreSQL
+- MySQL
+- Oracle
+- SQL Server
+- MongoDB
+- DynamoDB
+- Neo4j
 
-- Historical paper trading with virtual capital
-- Portfolio analytics and benchmark comparison
-- Strategy backtesting
-- Machine learning for market regime detection, anomaly detection, and suitability analysis
+## Featured Projects
+
+### Alpha Paper - Stock Paper Trading and Analytics Platform
+
+A Streamlit-based stock paper trading platform built using Yahoo Finance historical data, portfolio analytics, strategy backtesting, and machine learning-driven market insights.
+
+Highlights:
+
+- historical paper trading with realistic execution logic
+- portfolio KPIs, benchmark comparison, and watchlist tracking
+- backtesting for technical strategies
+- ML modules for regime detection, anomalies, and suitability analysis
 
 Repository:
 
 - [Alpha Paper: Stock Paper Trading and Analytics Platform](https://github.com/piyushkolte523/Alpha_Paper-Stock_Paper_Trading_and_Analytics_Platform)
 
+### AI-Powered Multi-Agent Analytics Workflow Visualizer
+
+A visual analytics system for modeling, monitoring, and optimizing multi-agent AI-driven workflows and data interactions.
+
+### Enterprise Self-Service Analytics Framework
+
+A natural language to SQL analytics framework designed to reduce ad-hoc reporting effort and improve self-service decision support.
+
+## Experience Snapshot
+
+### Research Analyst
+University of Massachusetts Dartmouth
+
+- delivered predictive modeling and big-data research projects
+- built cleaned datasets and KPI dashboards
+- conducted neural network optimization experiments
+- mentored students on dashboarding and analytics workflows
+
+### Business Analyst
+Aaradhana Energy Private Limited
+
+- built enterprise KPI dashboards in Power BI using Snowflake-backed data
+- optimized SQL and stored procedures for large-scale financial and operational reporting
+- created Python validation scripts and governance-focused metadata workflows
+- worked with AWS and Databricks ETL pipelines
+
+### Data Analyst Intern
+Sutherland Global Services
+
+- built a cloud-native data masking microservice
+- automated sensitive-data redaction using Python, Flask, PostgreSQL, and NLP workflows
+- designed CI/CD deployment pipelines on GCP and GKE
+
 ## What You’ll Find On My GitHub
 
-- End-to-end data projects
-- Machine learning applications
-- Dashboard and reporting projects
-- Practical portfolio work with real implementation depth
+- end-to-end analytics projects
+- BI and dashboard applications
+- machine learning implementations
+- SQL and Python-based problem solving
+- portfolio projects with practical business use cases
 
-## Currently Exploring
+## Current Interests
 
-- Applied machine learning for business and finance
-- Better dashboard UX and storytelling
-- End-to-end analytics product development
-- Scalable automation workflows
+- applied machine learning for analytics and finance
+- analytics product design
+- scalable data workflows
+- intelligent dashboards and self-service BI
+- enterprise analytics systems
 
 ## Connect With Me
 
 - GitHub: [piyushkolte523](https://github.com/piyushkolte523)
-- Email: `piyushkolte523@gmail.com`
+- LinkedIn: Add your LinkedIn profile link here
+- Email: `piyushkolte2209@gmail.com`
 
 ---
 
