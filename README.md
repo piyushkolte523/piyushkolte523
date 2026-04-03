@@ -1,17 +1,26 @@
-# Hi, I'm Piyush Kolte
+<h1 align="center">Hi, I'm Piyush Kolte</h1>
+<h3 align="center">Data & Business Intelligence Analyst | MS in Data Science | Analytics, ML, BI, and Cloud Data Platforms</h3>
 
-Data & Business Intelligence Analyst with 4+ years of experience delivering analytics, BI, and machine learning solutions across cloud platforms and enterprise environments.
+<p align="center">
+  <a href="https://github.com/piyushkolte523"><img src="https://img.shields.io/badge/GitHub-piyushkolte523-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:piyushkolte2209@gmail.com"><img src="https://img.shields.io/badge/Email-piyushkolte2209@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-I enjoy building scalable data products, predictive models, self-service dashboards, and interactive analytics applications that turn complex data into actionable insights.
+---
 
 ## About Me
 
-- MS in Data Science candidate at University of Massachusetts Dartmouth
-- Research Analyst with experience in predictive modeling, dashboarding, and applied analytics
-- Former Business Analyst with hands-on work in Snowflake, AWS, Databricks, SQL, Python, and Power BI
-- Passionate about analytics engineering, machine learning, cloud data systems, and decision intelligence
+- MS in Data Science at **University of Massachusetts Dartmouth**
+- Based in **Boston, MA**
+- Research Analyst with experience in **predictive modeling, dashboards, and applied analytics**
+- Former Business Analyst with hands-on work in **Snowflake, AWS, Databricks, SQL, Python, and Power BI**
+- Passionate about building **analytics products, machine learning systems, cloud data workflows, and decision-focused dashboards**
 
-## Areas of Interest
+I enjoy building end-to-end solutions that transform raw data into business value through analytics, visualization, and machine learning.
+
+---
+
+## Interests
 
 - Data Analytics
 - Business Intelligence
@@ -19,134 +28,154 @@ I enjoy building scalable data products, predictive models, self-service dashboa
 - Data Engineering
 - Cloud Analytics
 - Applied AI
-- Interactive Dashboards
-- Self-Service Analytics
+- Dashboard Development
+- Decision Intelligence
+
+---
 
 ## Tech Stack
 
 ### Languages
-- Python
-- SQL
-- R
-- PySpark
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-### Data & Machine Learning
-- pandas
-- NumPy
-- scikit-learn
-- PyTorch
-- Statistical Modeling
-- Predictive Analytics
-- A/B Testing
-- Feature Engineering
-- Clustering
-- Regression
+### Data, ML, and Analytics
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### BI & Visualization
-- Power BI
-- Tableau
-- Streamlit
-- Plotly
+### BI and Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-### Cloud & Data Platforms
-- Snowflake
-- AWS
-- Databricks
-- GCP
-- Airflow
-- Docker
+### Cloud and Data Platforms
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Databases
-- PostgreSQL
-- MySQL
-- Oracle
-- SQL Server
-- MongoDB
-- DynamoDB
-- Neo4j
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+---
 
 ## Featured Projects
 
 ### Alpha Paper — Stock Paper Trading and Analytics Platform
-A Streamlit-based stock paper trading and analytics platform built with Yahoo Finance historical data, portfolio simulation, strategy backtesting, and machine learning insights.
+A Streamlit-based stock paper trading platform built using Yahoo Finance historical data, portfolio analytics, strategy backtesting, and machine learning-driven market insights.
 
-Key features:
+Highlights:
 - Historical paper trading with realistic execution logic
 - Portfolio analytics, benchmark comparison, and watchlist tracking
-- Backtesting for technical trading strategies
-- ML modules for market regime detection, anomaly detection, and suitability analysis
+- Strategy backtesting for technical trading strategies
+- ML modules for regime detection, anomaly detection, and suitability analysis
 
 Repository:
 - [Alpha Paper: Stock Paper Trading and Analytics Platform](https://github.com/piyushkolte523/Alpha_Paper-Stock_Paper_Trading_and_Analytics_Platform)
 
 ### AI-Powered Multi-Agent Analytics Workflow Visualizer
-Designed a multi-agent analytics workflow visualizer to model, monitor, and optimize AI-driven data pipelines and agent interactions.
+Built a multi-agent analytics workflow visualizer to model, monitor, and optimize AI-driven pipelines and agent interactions.
 
 ### Enterprise Self-Service Analytics Framework
 Built a natural language to SQL analytics framework to improve self-service reporting and reduce ad-hoc analytics effort.
 
 ### AI-Powered Health Management System
-Developed analytical pipelines and KPI-driven dashboards for healthcare and rare-disease-oriented datasets.
+Designed analytical pipelines and KPI-driven dashboards for healthcare and rare-disease-oriented datasets.
+
+---
 
 ## Experience
 
-### Research Analyst
-University of Massachusetts Dartmouth  
-Jan 2024 - Present
+### Research Analyst — University of Massachusetts Dartmouth
+**Jan 2024 - Present**
 
-- Delivered predictive modeling and big-data research projects with measurable impact
-- Produced cleaned datasets and dashboard-driven outputs for research workflows
+- Delivered predictive modeling and big-data research projects
+- Produced cleaned datasets and dashboard-driven outputs for academic research
 - Conducted neural network optimization experiments and robustness analysis
 - Mentored students in analytics, dashboarding, and KPI-based decision-making
 
-### Business Analyst
-Aaradhana Energy Private Limited  
-Aug 2021 - Aug 2023
+### Business Analyst — Aaradhana Energy Private Limited
+**Aug 2021 - Aug 2023**
 
-- Built enterprise KPI dashboards in Power BI with Snowflake-backed datasets
+- Built enterprise KPI dashboards in Power BI using Snowflake-backed datasets
 - Optimized SQL queries and stored procedures for financial and operational analytics
-- Developed Python validation scripts to improve reporting quality and reduce reconciliation errors
+- Developed Python validation scripts to improve reporting quality
 - Managed ETL pipelines using AWS and Databricks
 - Strengthened governance with metadata documentation and role-based access controls
 
-### Data Analyst Intern
-Sutherland Global Services  
-Jun 2020 - Feb 2021
+### Data Analyst Intern — Sutherland Global Services
+**Jun 2020 - Feb 2021**
 
 - Built a cloud-native data masking microservice using Python, Flask, and PostgreSQL
-- Automated sensitive data redaction using NLP workflows
+- Automated sensitive-data redaction using NLP workflows
 - Designed CI/CD workflows on GCP and GKE
-- Improved compliance efficiency and reduced manual review workload
+- Improved compliance efficiency and reduced manual review effort
+
+---
 
 ## Education
 
 ### University of Massachusetts Dartmouth
-MS in Data Science  
-GPA: 3.95/4.00  
-Awarded the Student Affairs Distinguished Leadership Medal
+**MS in Data Science**  
+GPA: **3.94/4.00**  
+Awarded the **Student Affairs Distinguished Leadership Medal**
 
 ### University of Mumbai
-B.E. in Computer Science
+**B.E. in Computer Science**
+
+---
 
 ## Leadership
 
 - Finance Senator — Graduate Student Senate, UMass Dartmouth
+- Vice President - Gen AI Club, Umass Dartmouth
+
+---
 
 ## What You’ll Find On My GitHub
 
 - End-to-end analytics projects
+- Business intelligence dashboards
 - Machine learning applications
-- Dashboard and BI solutions
 - SQL and Python-driven data products
-- Research and portfolio projects with real implementation depth
+- Portfolio projects with practical business and research impact
+
+---
 
 ## Currently Exploring
 
 - Applied machine learning for analytics and finance
-- Decision intelligence systems
-- Scalable cloud data workflows
 - Dashboard UX and analytics storytelling
-- AI-enabled business analytics applications
+- Scalable cloud data workflows
+- Decision intelligence systems
+- Interactive analytics products
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushkolte523&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkolte523&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
 
 ## Connect With Me
 
